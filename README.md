@@ -1,0 +1,4 @@
+lasvegascoin
+============
+
+Cryptocurrency coin
